@@ -1,4 +1,4 @@
-#pip install Pillow (Python Imaging Library),qrcode
+#pip install qrcode, Pillow (Python Imaging Library)
 import qrcode
 
 def main():
